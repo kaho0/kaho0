@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=D8A52A&center=true&vCenter=true&random=false&width=600&height=70&lines=Hello+World%2C+I'm+Kahon!;Full+Stack+Developer;Data+Explorer;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=D8A52A&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I+am+Kahon!;Full+Stack+Developer;Data+Explorer;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 # 💫 About Me
@@ -129,6 +129,9 @@
   
   **Thanks for visiting my profile! Have a great day! 👋**
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=D8A52A&height=100&section=footer" />
+  <a href="https://github.com/kaho0">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=4000&color=D8A52A&background=00000000&center=true&vCenter=true&width=600&height=50&lines=PRESS+START+TO+PLAY;LOADING...;PLAYER+1+READY!;GAME+ON!" alt="Game Animation" />
+  </a>
+</div>
   
 </div>
