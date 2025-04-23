@@ -129,9 +129,5 @@
   
   **Thanks for visiting my profile! Have a great day! 👋**
   
-  <a href="https://github.com/kaho0">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=4000&color=D8A52A&background=00000000&center=true&vCenter=true&width=600&height=50&lines=PRESS+START+TO+PLAY;LOADING...;PLAYER+1+READY!;GAME+ON!" alt="Game Animation" />
-  </a>
-</div>
   
 </div>
