@@ -5,10 +5,8 @@
 # 💫 About Me
 > I build web apps. Sometimes I try to make sense of data. Still learning, still experimenting.
 
-- 🔭 Currently working on **data visualization projects**
 - 🌱 Learning **machine learning algorithms** and **data science**
 - 👨‍💻 My projects are available at [github.com/kaho0](https://github.com/kaho0)
-- 💬 Ask me about **React, Next.js, TypeScript, and data visualization**
 - ⚡ Fun fact: Code works on my machine! 🤷‍♂️
 
 ## 🌐 Socials
@@ -131,6 +129,6 @@
   
   **Thanks for visiting my profile! Have a great day! 👋**
   
-  ![Snake animation](https://github.com/kaho0/kaho0/blob/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D8A52A&height=100&section=footer" />
   
 </div>
