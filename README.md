@@ -9,7 +9,7 @@
 - 👨‍💻 My projects are available at [github.com/kaho0](https://github.com/kaho0)
 - ⚡ Fun fact: Code works on my machine! 🤷‍♂️
 
-## 🌐 Socials
+## 🌐 Connect With Me
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/) 
@@ -23,7 +23,6 @@
 
 <details open>
   <summary><b>Frontend</b></summary>
-  <br>
   <div align="center">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -41,7 +40,6 @@
 
 <details open>
   <summary><b>Backend</b></summary>
-  <br>
   <div align="center">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -53,7 +51,6 @@
 
 <details open>
   <summary><b>Database</b></summary>
-  <br>
   <div align="center">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -65,7 +62,6 @@
 
 <details open>
   <summary><b>Data Science</b></summary>
-  <br>
   <div align="center">
     <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -76,7 +72,6 @@
 
 <details open>
   <summary><b>DevOps & Tools</b></summary>
-  <br>
   <div align="center">
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -99,11 +94,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaho0&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaho0&theme=gruvbox&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
-
 ### 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaho0&theme=gruvbox&hide_border=true&bg_color=00000000" alt="Activity Graph" />
@@ -112,11 +102,6 @@
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote" />
-</div>
-
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=kaho0&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 
 ---
@@ -128,6 +113,5 @@
 <div align="center">
   
   **Thanks for visiting my profile! Have a great day! 👋**
-  
   
 </div>
