@@ -99,11 +99,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaho0&theme=gruvbox&hide_border=true&bg_color=00000000" alt="Activity Graph" />
 </div>
 
-### ✍️ Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote" />
-</div>
-
 ---
 
 <div align="center">
