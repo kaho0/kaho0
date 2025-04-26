@@ -11,21 +11,21 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+<p align="">
+ <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/Kahoo_z">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" alt="X" height="40" width="40" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:kahonbintezaman@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" height="40" width="40" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://kahonbintezaman.vercel.app/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" alt="Portfolio" height="40" width="40" />
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -59,7 +59,7 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
+<div align="">
   <img src="https://github-readme-stats.vercel.app/api?username=kaho0&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000" alt="GitHub Stats" />
   <br><br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=kaho0&theme=gruvbox&hide_border=true&background=00000000" alt="GitHub Streak" />
@@ -68,7 +68,7 @@
 </div>
 
 ### 📈 Activity Graph
-<div align="center">
+<div align="">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaho0&theme=gruvbox&hide_border=true&bg_color=00000000" alt="Activity Graph" />
 </div>
 
