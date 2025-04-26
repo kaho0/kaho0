@@ -11,8 +11,8 @@
 
 ## 🌐 Connect With Me
 
-<p align="">
- <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/">
+<p>
+  <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
@@ -28,6 +28,7 @@
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
 
 # 💻 Tech Stack
 
