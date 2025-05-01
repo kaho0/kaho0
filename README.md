@@ -32,24 +32,24 @@
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/React-9C9CFF?style=flat-square" alt="React"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Next.js-9C9CFF?style=flat-square" alt="Next.js"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/TypeScript-9C9CFF?style=flat-square" alt="TypeScript"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/JavaScript-9C9CFF?style=flat-square" alt="JavaScript"/></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/></a>&nbsp;
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/></a>&nbsp;
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/></a>&nbsp;
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/></a>&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/Node.js-9C9CFF?style=flat-square" alt="Node.js"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/Python-9C9CFF?style=flat-square" alt="Python"/></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/></a>&nbsp;
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></a>&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/MongoDB-9C9CFF?style=flat-square" alt="MongoDB"/></a>
-      <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-9C9CFF?style=flat-square" alt="PostgreSQL"/></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/></a>&nbsp;
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/></a>&nbsp;
     </td>
   </tr>
 </table>
