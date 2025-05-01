@@ -9,27 +9,25 @@
 - 👨‍💻 My projects are available at [github.com/kaho0](https://github.com/kaho0)
 - ⚡ Fun fact: Code works on my machine! 🤷‍♂️
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="">🌐 Connect With Me</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/" target="_blank">
+<p align="center" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://x.com/Kahoo_z" target="_blank">
+  <a href="https://x.com/Kahoo_z" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" alt="Twitter/X" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="mailto:kahonbintezaman@gmail.com" target="_blank">
+  <a href="mailto:kahonbintezaman@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://kahonbintezaman.vercel.app/" target="_blank">
+  <a href="https://kahonbintezaman.vercel.app/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
-
-
 
 
 # 💻 Tech Stack
