@@ -9,23 +9,23 @@
 - 👨‍💻 My projects are available at [github.com/kaho0](https://github.com/kaho0)
 - ⚡ Fun fact: Code works on my machine! 🤷‍♂️
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/" target="_blank">
-    <img src="https://i.ibb.co.com/PZ3h9kfH/image.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="fill:#0A66C2;" />
   </a>
   &nbsp;
   <a href="https://x.com/Kahoo_z" target="_blank">
-    <img src="https://i.ibb.co.com/Nd87RYHR/image.png" alt="Twitter" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter/X" width="40" height="40" style="fill:#000000;" />
   </a>
   &nbsp;
   <a href="mailto:kahonbintezaman@gmail.com" target="_blank">
-    <img src="https://i.ibb.co.com/zHXyY5Wj/image.png" alt="Gmail" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="40" height="40" style="fill:#D14836;" />
   </a>
   &nbsp;
   <a href="https://kahonbintezaman.vercel.app/" target="_blank">
-    <img src="https://i.ibb.co.com/27Mg90c2/image.png" alt="Portfolio" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" alt="Portfolio" width="40" height="40" style="fill:#000000;" />
   </a>
 </p>
 
