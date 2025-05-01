@@ -11,20 +11,17 @@
 
 <h2 align="">🌐 Connect With Me</h2>
 
-<p align="center" style="text-decoration: none;">
-  <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/" target="_blank" style="text-decoration: none;">
+<p align="center">
+  <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  &nbsp;
-  <a href="https://x.com/Kahoo_z" target="_blank" style="text-decoration: none;">
+  <a href="https://x.com/Kahoo_z" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" alt="Twitter/X" width="40" height="40"/>
   </a>
-  &nbsp;
-  <a href="mailto:kahonbintezaman@gmail.com" target="_blank" style="text-decoration: none;">
+  <a href="mailto:kahonbintezaman@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
   </a>
-  &nbsp;
-  <a href="https://kahonbintezaman.vercel.app/" target="_blank" style="text-decoration: none;">
+  <a href="https://kahonbintezaman.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
@@ -36,24 +33,24 @@
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/></a>&nbsp;
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/></a>&nbsp;
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/></a>&nbsp;
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/></a>&nbsp;
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React"/></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js"/></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript"/></a>
     </td>
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
     <td>
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/></a>&nbsp;
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></a>&nbsp;
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js"/></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></a>
     </td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
     <td>
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/></a>&nbsp;
-      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/></a>&nbsp;
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB"/></a>
+      <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/></a>
     </td>
   </tr>
 </table>
