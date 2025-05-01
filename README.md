@@ -6,8 +6,6 @@
 > I build web apps. Sometimes I try to make sense of data. Still learning, still experimenting.
 
 - 🌱 Learning **machine learning algorithms** and **data science**
-- 👨‍💻 My projects are available at [github.com/kaho0](https://github.com/kaho0)
-- ⚡ Fun fact: Code works on my machine! 🤷‍♂️
 
 <h2 align="">🌐 Connect With Me</h2>
 
