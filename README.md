@@ -13,19 +13,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="fill:#0A66C2;" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://x.com/Kahoo_z" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="Twitter/X" width="40" height="40" style="fill:#000000;" />
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx--v1.png" alt="Twitter/X" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="mailto:kahonbintezaman@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Gmail" width="40" height="40" style="fill:#D14836;" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://kahonbintezaman.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" alt="Portfolio" width="40" height="40" style="fill:#000000;" />
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-vercel-a-cloud-platform-for-static-sites-and-serverless-functions-logo-color-tal-revivo.png" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
 
