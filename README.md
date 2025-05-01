@@ -67,42 +67,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaho0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000&title_color=9C9CFF&text_color=ffffff" alt="Top Languages" width="50%" />
 </div>
 
-<!-- Simple language distribution visualization -->
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>HTML</strong></td>
-      <td width="300"><img src="https://progress-bar.dev/47/?width=300&color=9C9CFF" /></td>
-      <td>46.75%</td>
-    </tr>
-    <tr>
-      <td><strong>Jupyter Notebook</strong></td>
-      <td width="300"><img src="https://progress-bar.dev/24/?width=300&color=9C9CFF" /></td>
-      <td>23.90%</td>
-    </tr>
-    <tr>
-      <td><strong>JavaScript</strong></td>
-      <td width="300"><img src="https://progress-bar.dev/21/?width=300&color=9C9CFF" /></td>
-      <td>20.63%</td>
-    </tr>
-    <tr>
-      <td><strong>TypeScript</strong></td>
-      <td width="300"><img src="https://progress-bar.dev/7/?width=300&color=9C9CFF" /></td>
-      <td>6.83%</td>
-    </tr>
-    <tr>
-      <td><strong>CSS</strong></td>
-      <td width="300"><img src="https://progress-bar.dev/1/?width=300&color=9C9CFF" /></td>
-      <td>1.21%</td>
-    </tr>
-    <tr>
-      <td><strong>C++</strong></td>
-      <td width="300"><img src="https://progress-bar.dev/1/?width=300&color=9C9CFF" /></td>
-      <td>0.68%</td>
-    </tr>
-  </table>
-</div>
-
 ### 📈 Activity Graph
 <div align="center">
   <a href="https://github.com/kaho0/github-readme-activity-graph">
