@@ -65,42 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaho0&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000&title_color=F5A623&text_color=E8DDCB" alt="Top Languages" width="50%" />
 </div>
 
-# ⏱️ This Week I Spent Time On
-
-<div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr style="background-color: transparent;">
-      <td style="border: none; padding: 10px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-        <p style="color: #F5A623; margin: 5px 0;">TypeScript</p>
-        <div style="background-color: rgba(245, 166, 35, 0.2); border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background-color: #F5A623; border-radius: 5px; height: 10px; width: 65%;"></div>
-        </div>
-      </td>
-      <td style="border: none; padding: 10px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-        <p style="color: #F5A623; margin: 5px 0;">React</p>
-        <div style="background-color: rgba(245, 166, 35, 0.2); border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background-color: #F5A623; border-radius: 5px; height: 10px; width: 50%;"></div>
-        </div>
-      </td>
-      <td style="border: none; padding: 10px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-        <p style="color: #F5A623; margin: 5px 0;">Python</p>
-        <div style="background-color: rgba(245, 166, 35, 0.2); border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background-color: #F5A623; border-radius: 5px; height: 10px; width: 40%;"></div>
-        </div>
-      </td>
-      <td style="border: none; padding: 10px; text-align: center;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-        <p style="color: #F5A623; margin: 5px 0;">JavaScript</p>
-        <div style="background-color: rgba(245, 166, 35, 0.2); border-radius: 5px; height: 10px; width: 100%;">
-          <div style="background-color: #F5A623; border-radius: 5px; height: 10px; width: 30%;"></div>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 # 🔥 Activity Graph
 <div align="center">
