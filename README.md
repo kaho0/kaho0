@@ -11,16 +11,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9C9CFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" style="filter: invert(26%) sepia(98%) saturate(1404%) hue-rotate(178deg) brightness(96%) contrast(96%);" />
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/Kahoo_z" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-9C9CFF?style=for-the-badge&logo=twitter&logoColor=000000" alt="Twitter/X"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="40" height="40" alt="Twitter/X" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:kahonbintezaman@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-9C9CFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="40" height="40" alt="Gmail" style="filter: invert(36%) sepia(69%) saturate(2584%) hue-rotate(337deg) brightness(90%) contrast(92%);" />
+  </a>&nbsp;&nbsp;
   <a href="https://kahonbintezaman.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-9C9CFF?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firefoxbrowser.svg" width="40" height="40" alt="Portfolio" style="filter: invert(40%) sepia(99%) saturate(1752%) hue-rotate(339deg) brightness(100%) contrast(102%);" />
   </a>
 </div>
 
