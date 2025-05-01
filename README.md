@@ -11,16 +11,16 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-9C9CFF?style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-9C9CFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/Kahoo_z" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-9C9CFF?style=for-the-badge" alt="Twitter/X"/>
+    <img src="https://img.shields.io/badge/Twitter-9C9CFF?style=for-the-badge&logo=twitter&logoColor=000000" alt="Twitter/X"/>
   </a>
   <a href="mailto:kahonbintezaman@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-9C9CFF?style=for-the-badge" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-9C9CFF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
   </a>
   <a href="https://kahonbintezaman.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-9C9CFF?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-9C9CFF?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio"/>
   </a>
 </div>
 
