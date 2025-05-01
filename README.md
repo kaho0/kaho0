@@ -14,13 +14,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/Kahoo_z" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="40" height="40" alt="Twitter/X" style="filter: invert(70%) sepia(50%) saturate(1000%) hue-rotate(350deg) brightness(100%) contrast(100%);"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="40" height="40" alt="Twitter/X"/>
   </a>
   <a href="mailto:kahonbintezaman@gmail.com">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="40" height="40" alt="Gmail" style="filter: invert(70%) sepia(50%) saturate(1000%) hue-rotate(350deg) brightness(100%) contrast(100%);"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="40" height="40" alt="Gmail"/>
   </a>
   <a href="https://github.com/kaho0" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" style="filter: invert(70%) sepia(50%) saturate(1000%) hue-rotate(350deg) brightness(100%) contrast(100%);"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   </a>
 </div>
 
@@ -65,10 +65,47 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaho0&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000&title_color=F5A623&text_color=E8DDCB" alt="Top Languages" width="50%" />
 </div>
 
+# ⏱️ This Week I Spent Time On
+
+<div align="center">
+  <table style="border: none; border-collapse: collapse;">
+    <tr style="background-color: transparent;">
+      <td style="border: none; padding: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+        <p style="color: #F5A623; margin: 5px 0;">TypeScript</p>
+        <div style="background-color: rgba(245, 166, 35, 0.2); border-radius: 5px; height: 10px; width: 100%;">
+          <div style="background-color: #F5A623; border-radius: 5px; height: 10px; width: 65%;"></div>
+        </div>
+      </td>
+      <td style="border: none; padding: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+        <p style="color: #F5A623; margin: 5px 0;">React</p>
+        <div style="background-color: rgba(245, 166, 35, 0.2); border-radius: 5px; height: 10px; width: 100%;">
+          <div style="background-color: #F5A623; border-radius: 5px; height: 10px; width: 50%;"></div>
+        </div>
+      </td>
+      <td style="border: none; padding: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+        <p style="color: #F5A623; margin: 5px 0;">Python</p>
+        <div style="background-color: rgba(245, 166, 35, 0.2); border-radius: 5px; height: 10px; width: 100%;">
+          <div style="background-color: #F5A623; border-radius: 5px; height: 10px; width: 40%;"></div>
+        </div>
+      </td>
+      <td style="border: none; padding: 10px; text-align: center;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+        <p style="color: #F5A623; margin: 5px 0;">JavaScript</p>
+        <div style="background-color: rgba(245, 166, 35, 0.2); border-radius: 5px; height: 10px; width: 100%;">
+          <div style="background-color: #F5A623; border-radius: 5px; height: 10px; width: 30%;"></div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 # 🔥 Activity Graph
 <div align="center">
   <a href="https://github.com/kaho0/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaho0&bg_color=00000000&color=F5A623&line=F28C28&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaho0&bg_color=00000000&color=F5A623&line=F28C28&point=F5A623&hide_border=true" alt="Activity Graph" width="95%" />
   </a>
 </div>
 
@@ -78,3 +115,4 @@
   <img src="https://komarev.com/ghpvc/?username=kaho0&style=for-the-badge&color=F5A623" alt="Profile Views" />
 
   <h2 style="color: #F5A623;">Thanks for visiting my profile! Have a great day! 👋</h2>
+</div>
