@@ -18,10 +18,6 @@
   <a href="mailto:kahonbintezaman@gmail.com">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="40" height="40" alt="Gmail"/>
   </a>
-  <a href="https://github.com/kaho0" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-</div>
 
 # 💻 Tech Stack
 
