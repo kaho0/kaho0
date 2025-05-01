@@ -7,7 +7,7 @@
 
 - 🌱 Learning **machine learning algorithms** and **data science**
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/" target="_blank">
@@ -89,7 +89,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaho0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000&title_color=9C9CFF&text_color=ffffff" alt="Top Languages" width="50%" />
 </div>
 
-### 📈 Activity Graph
+# 📈 Activity Graph
 <div align="center">
   <a href="https://github.com/kaho0/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaho0&bg_color=00000000&color=9C9CFF&line=9C9CFF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%" />
@@ -101,5 +101,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaho0&style=for-the-badge&color=9C9CFF" alt="Profile Views" />
 
-  <h3>Thanks for visiting my profile! Have a great day! 👋</h3>
+  <h2>Thanks for visiting my profile! Have a great day! 👋</h2>
 </div>
