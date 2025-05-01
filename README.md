@@ -25,7 +25,7 @@
   </a>
   &nbsp;
   <a href="https://kahonbintezaman.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-vercel-a-cloud-platform-for-static-sites-and-serverless-functions-logo-color-tal-revivo.png" alt="Portfolio" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/domain.png" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
 
