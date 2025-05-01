@@ -1,99 +1,119 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=40&pause=1000&color=CB9CDB&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I+am+Kahon!;Full+Stack+Developer;Data+Explorer;Continuous+Learner" alt="Typing SVG" />
-
-  <!-- Elegant divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=9C9CFF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I+am+Kahon!;Full+Stack+Developer;Data+Explorer;Continuous+Learner" alt="Typing SVG" />
 </div>
 
-# ✨ About Me
+# 💫 About Me
 > I build web apps. Sometimes I try to make sense of data. Still learning, still experimenting.
-
-<img align="right" width="300" src="https://i.imgur.com/aEJVTtH.gif">
 
 - 🌱 Learning **machine learning algorithms** and **data science**
 - 👨‍💻 My projects are available at [github.com/kaho0](https://github.com/kaho0)
 - ⚡ Fun fact: Code works on my machine! 🤷‍♂️
 
-<br>
-
-## 🌐 Connect With Me
+<h2 align="">🌐 Connect With Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9C9CFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-9C9CFF?style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/Kahoo_z" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-CB9CDB?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X"/>
+    <img src="https://img.shields.io/badge/TWITTER-9C9CFF?style=for-the-badge" alt="Twitter/X"/>
   </a>
   <a href="mailto:kahonbintezaman@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EBBEFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/GMAIL-9C9CFF?style=for-the-badge" alt="Gmail"/>
   </a>
   <a href="https://kahonbintezaman.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FFD1FF?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-9C9CFF?style=for-the-badge" alt="Portfolio"/>
   </a>
-</div>
-
-<div align="center">
-  <!-- Elegant divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%">
 </div>
 
 # 💻 Tech Stack
 
-<div align="center">
-  <!-- Frontend -->
-  <h3>Frontend</h3>
-  <img src="https://img.shields.io/badge/React-CB9CDB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-EBBEFF?style=for-the-badge&logo=next.js&logoColor=black" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-9C9CFF?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFD1FF?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  
-  <!-- Backend -->
-  <h3>Backend</h3>
-  <img src="https://img.shields.io/badge/Node.js-CB9CDB?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-9C9CFF?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  
-  <!-- Database -->
-  <h3>Database</h3>
-  <img src="https://img.shields.io/badge/MongoDB-EBBEFF?style=for-the-badge&logo=mongodb&logoColor=black" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-FFD1FF?style=for-the-badge&logo=postgresql&logoColor=black" alt="PostgreSQL"/>
-</div>
-
-<div align="center">
-  <!-- Elegant divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%">
-</div>
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/React-9C9CFF?style=flat-square" alt="React"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Next.js-9C9CFF?style=flat-square" alt="Next.js"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/TypeScript-9C9CFF?style=flat-square" alt="TypeScript"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/JavaScript-9C9CFF?style=flat-square" alt="JavaScript"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Node.js-9C9CFF?style=flat-square" alt="Node.js"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/Python-9C9CFF?style=flat-square" alt="Python"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/MongoDB-9C9CFF?style=flat-square" alt="MongoDB"/></a>
+      <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-9C9CFF?style=flat-square" alt="PostgreSQL"/></a>
+    </td>
+  </tr>
+</table>
 
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaho0&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000&show_icons=true&icon_color=CB9CDB&title_color=CB9CDB&text_color=ffffff" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaho0&theme=material-palenight&hide_border=true&background=00000000&stroke=CB9CDB&ring=CB9CDB&fire=EBBEFF&currStreakLabel=CB9CDB" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaho0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000&show_icons=true&icon_color=9C9CFF&title_color=9C9CFF&text_color=ffffff" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaho0&theme=dark&hide_border=true&background=00000000&stroke=9C9CFF&ring=9C9CFF&fire=9C9CFF&currStreakLabel=9C9CFF" alt="GitHub Streak" width="49%" />
 </div>
 
+# 📈 Most Used Languages
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaho0&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000&title_color=CB9CDB&text_color=ffffff" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaho0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000&title_color=9C9CFF&text_color=ffffff" alt="Top Languages" width="50%" />
+</div>
+
+<!-- Simple language distribution visualization -->
+<div align="center">
+  <table>
+    <tr>
+      <td><strong>HTML</strong></td>
+      <td width="300"><img src="https://progress-bar.dev/47/?width=300&color=9C9CFF" /></td>
+      <td>46.75%</td>
+    </tr>
+    <tr>
+      <td><strong>Jupyter Notebook</strong></td>
+      <td width="300"><img src="https://progress-bar.dev/24/?width=300&color=9C9CFF" /></td>
+      <td>23.90%</td>
+    </tr>
+    <tr>
+      <td><strong>JavaScript</strong></td>
+      <td width="300"><img src="https://progress-bar.dev/21/?width=300&color=9C9CFF" /></td>
+      <td>20.63%</td>
+    </tr>
+    <tr>
+      <td><strong>TypeScript</strong></td>
+      <td width="300"><img src="https://progress-bar.dev/7/?width=300&color=9C9CFF" /></td>
+      <td>6.83%</td>
+    </tr>
+    <tr>
+      <td><strong>CSS</strong></td>
+      <td width="300"><img src="https://progress-bar.dev/1/?width=300&color=9C9CFF" /></td>
+      <td>1.21%</td>
+    </tr>
+    <tr>
+      <td><strong>C++</strong></td>
+      <td width="300"><img src="https://progress-bar.dev/1/?width=300&color=9C9CFF" /></td>
+      <td>0.68%</td>
+    </tr>
+  </table>
 </div>
 
 ### 📈 Activity Graph
 <div align="center">
   <a href="https://github.com/kaho0/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaho0&bg_color=00000000&color=CB9CDB&line=9C9CFF&point=EBBEFF&area=true&area_color=CB9CDB30&hide_border=true" alt="Activity Graph" width="95%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaho0&bg_color=00000000&color=9C9CFF&line=9C9CFF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="95%" />
   </a>
 </div>
 
-<div align="center">
-  <!-- Elegant divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=2&section=header" width="100%">
-</div>
+<hr>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaho0&style=for-the-badge&color=CB9CDB" alt="Profile Views" />
-</div>
+  <img src="https://komarev.com/ghpvc/?username=kaho0&style=for-the-badge&color=9C9CFF" alt="Profile Views" />
 
-<div align="center">
-  
-  ### **Thanks for visiting my profile! Have a great day! 👋**
-  
-  <img src="https://i.imgur.com/QTxIx9n.gif" width="120">
+  <h3>Thanks for visiting my profile! Have a great day! 👋</h3>
 </div>
