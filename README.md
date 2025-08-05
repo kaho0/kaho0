@@ -31,19 +31,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaho0&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000&title_color=F5A623&text_color=E8DDCB" alt="Top Languages" width="50%" />
 </div>
-
-
-# 🔥 Activity Graph
-<div align="center">
-  <a href="https://github.com/kaho0/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaho0&bg_color=00000000&color=F5A623&line=F28C28&point=F5A623&hide_border=true" alt="Activity Graph" width="95%" />
-  </a>
-</div>
-
-<hr style="border-color: rgba(245, 166, 35, 0.3);">
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaho0&style=for-the-badge&color=F5A623" alt="Profile Views" />
-
-  <h2 style="color: #F5A623;">Thanks for visiting my profile! Have a great day! 👋</h2>
-</div>
