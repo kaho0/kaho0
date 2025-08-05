@@ -19,34 +19,6 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="40" height="40" alt="Gmail"/>
   </a>
 
-# 💻 Tech Stack
-
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="background-color: transparent;">
-    <td style="border: none; padding: 10px;"><strong>Frontend</strong></td>
-    <td style="border: none; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-    </td>
-  </tr>
-  <tr style="background-color: transparent;">
-    <td style="border: none; padding: 10px;"><strong>Backend</strong></td>
-    <td style="border: none; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-    </td>
-  </tr>
-  <tr style="background-color: transparent;">
-    <td style="border: none; padding: 10px;"><strong>Database</strong></td>
-    <td style="border: none; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-    </td>
-  </tr>
-</table>
-
 # 📊 GitHub Stats
 
 <div align="center">
