@@ -7,18 +7,6 @@
 
 - 🌱 Learning **machine learning algorithms** and **data science**
 
-🔗 Connect With Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/kahon-binte-zaman-9414432b4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Kahoo_z" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="40" height="40" alt="Twitter/X"/>
-  </a>
-  <a href="mailto:kahonbintezaman@gmail.com">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="40" height="40" alt="Gmail"/>
-  </a>
-
 # 📊 GitHub Stats
 
 <div align="center">
