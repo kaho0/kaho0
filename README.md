@@ -14,8 +14,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaho0&theme=gruvbox&hide_border=true&background=00000000&stroke=F5A623&ring=F5A623&fire=F28C28&currStreakLabel=F5A623" alt="GitHub Streak" width="49%" />
 </div>
 
-# 📈 Most Used Languages
-
 <div align="center">
-  <<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaho0&layout=compact&count_private=true&include_all_commits=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=F5A623&text_color=E8DDCB" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaho0&hide=html,css&layout=compact&theme=gruvbox&bg_color=00000000&title_color=F5A623&text_color=E8DDCB" width="50%" alt="Top Languages (excluding HTML & CSS)" />
 </div>
