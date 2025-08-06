@@ -17,5 +17,5 @@
 # 📈 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaho0&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000&title_color=F5A623&text_color=E8DDCB" alt="Top Languages" width="50%" />
+  <<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaho0&layout=compact&count_private=true&include_all_commits=true&hide_border=true&theme=gruvbox&bg_color=00000000&title_color=F5A623&text_color=E8DDCB" width="50%" />
 </div>
