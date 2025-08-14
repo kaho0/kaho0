@@ -7,7 +7,7 @@
 
 - 🌱 Learning **machine learning algorithms** and **data science**
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaho0&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000&show_icons=true&icon_color=F5A623&title_color=F5A623&text_color=E8DDCB" alt="GitHub Stats" width="49%" />
