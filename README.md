@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F5A623&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi%2C+I+am+Kahon!;Full+Stack+Developer;Data+Explorer;Continuous+Learner" alt="Typing SVG" />
-</div>
-
 # ✨ About Me
 > I build web apps. Sometimes I try to make sense of data. Still learning, still experimenting.
 
